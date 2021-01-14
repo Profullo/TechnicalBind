@@ -4,9 +4,8 @@ html
 }
 body
 {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
 }
-
 
 div.AboutUs
 {
@@ -25,17 +24,14 @@ div.footer
     padding: 20px;
     width: 100%;
     background-color: #000080;
-    color: #ff0000;
+    color: #ffffff;
     text-align: center;
 }
-
-
 
 img
 {
 	width: 100%;	
 }
-
 
 div.contact
 {
@@ -45,13 +41,13 @@ div.contact
 
 .navbar{
     background-color: #000080;
-}
-.dropdown{
-    background-color: #000080;
+    opacity: 0.9;
 }
 .nav.navbar-nav li a {
-    color: #ff0000;
+    color: #000000;
     text-align: center;
+    
+    
 }
 
 .nav.navbar-nav li a:hover {
@@ -61,7 +57,7 @@ div.contact
 
 .nav.navbar-nav li a:visited {
 
-    background-color: #000080;
+    background-color: #5e0338;
 }
 
 .nav.navbar-nav li a:active {
