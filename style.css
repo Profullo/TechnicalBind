@@ -7,17 +7,6 @@ body
     background-color: rgb(255, 255, 255);
 }
 
-div.AboutUs
-{
-    font-style: Arial;
-    text-align: justify;
-    margin-left: 25px;
-    margin-top: 25px;
-    margin-bottom: 25px;
-    margin-right: 25px;
-}
-
-
 div.footer
 {
     position: bottom;
@@ -33,34 +22,26 @@ img
 	width: 100%;	
 }
 
-div.contact
-{
-	text-align: left;
-	font-size: 175%;
-}
-
 .navbar{
     background-color: #000080;
     opacity: 0.9;
 }
-.nav.navbar-nav li a {
-    color: #000000;
+.nav.navbar-nav .navbar-right li a {
+    color: #ffffff;
     text-align: center;
-    
-    
 }
 
 .nav.navbar-nav li a:hover {
 
-    background-color: #000080;
+    background-color: #ffffff;
 }
 
 .nav.navbar-nav li a:visited {
 
-    background-color: #5e0338;
+    background-color: #49012b;
 }
 
 .nav.navbar-nav li a:active {
 
-    background-color: #000080;
+    background-color: #ffffff;
 }
