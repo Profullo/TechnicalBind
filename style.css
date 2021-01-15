@@ -4,15 +4,24 @@ html
 }
 body
 {
-    background-color: rgb(255, 255, 255);
+    background-color: white;
 }
 
+div.AboutUs
+{
+    font-style: Arial;
+    text-align: justify;
+    margin-left: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 25px;
+}
 div.footer
 {
     position: bottom;
     padding: 20px;
     width: 100%;
-    background-color: #000080;
+    background-color:#000080;
     color: #ffffff;
     text-align: center;
 }
@@ -22,26 +31,35 @@ img
 	width: 100%;	
 }
 
+
+div.contact
+{
+	text-align: left;
+	font-size: 175%;
+}
+
+
 .navbar{
     background-color: #000080;
     opacity: 0.9;
 }
-.nav.navbar-nav .navbar-right li a {
+
+.nav.navbar-nav li a {
     color: #ffffff;
     text-align: center;
 }
 
 .nav.navbar-nav li a:hover {
 
-    background-color: #ffffff;
+    background-color: #880000;
 }
 
 .nav.navbar-nav li a:visited {
 
-    background-color: #49012b;
+    background-color: #880000;
 }
 
 .nav.navbar-nav li a:active {
 
-    background-color: #ffffff;
+    background-color: #880000;
 }

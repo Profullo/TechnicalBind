@@ -25,8 +25,8 @@
                     <div class="navbar-header">
                         <img src="images/technicalbind_banner_final.jpg" style="width: 300px; height: 50px;">
                     </div>
-                    <div>
-                        <ul class="nav navbar-nav navbar-right" style="background color=#ffffff">
+                    <div style="color=#ffffff";>
+                        <ul class="nav navbar-nav navbar-right">
                             <li><a href="https://www.profullo.com/">HOME</a></li>
                             <li class="dropdown"><a class="dropdown-toggle"
                                 data-toggle="dropdown" href="#">SERVICES <span
@@ -62,7 +62,7 @@
     <div>
 
    </div>
-
+<br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
    <div class="container">
    <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
@@ -109,6 +109,8 @@
 </div>
 <br></br>
 <div class="container">
+<section class="about-area" id="about">
+	<div class="AboutUs">
 		<br></br>
 		<p>
 			Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
@@ -122,6 +124,7 @@
 			"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
 			</p>
 </div> 
+</div>
 <br></br> 
 <div class="container"style="background-color: #F5F5F5";>
 <div class="header" style="text-align: center; ">
